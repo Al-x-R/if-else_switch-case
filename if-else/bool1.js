@@ -1,4 +1,4 @@
-const text = prompt('Введите 0 или 1')
+const text = prompt('Введите число')
 const test = Boolean(Number(text))
 
 if (test === true) {
@@ -6,3 +6,5 @@ if (test === true) {
 } else {
     alert('Неверно')
 }
+
+alert((test === true) ? 'Верно' : 'Неверно')
