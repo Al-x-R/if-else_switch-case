@@ -1,4 +1,4 @@
-let str = prompt('enter the word: ')
+const str = prompt('enter the word: ')
 
 /**
  * Checks the letter for compliance

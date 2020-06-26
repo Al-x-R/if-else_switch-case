@@ -1,5 +1,5 @@
 const num = prompt('Введите число: ')
-let a = Number(num)
+const a = Number(num)
 
 /**
  * Checks the number for compliance

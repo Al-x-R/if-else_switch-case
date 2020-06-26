@@ -1,7 +1,7 @@
 const num = prompt('Введите число: ')
-let a = Number(num)
+const a = Number(num)
 const num2 = prompt('Введите число: ')
-let b = Number(num2)
+const b = Number(num2)
 
 /**
  * Checks the number for compliance
